@@ -6,7 +6,6 @@
 
 <p align="center">
     <a href="https://github.com/ramonclaudio/perplexity-ai-toolkit" title="Go to repo">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Perplexity+AI+Toolkit&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRamon Claudio%2Fperplexity-ai-toolkit%2Fmain%2F.github%2Fversion.json" alt="Perplexity AI Toolkit">
     </a>
 </p>
 
@@ -18,9 +17,9 @@
 <p align="center">
     <a href="/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/perplexity-ai-toolkit/main/.github/pplx-logo-dark.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/perplexity-ai-toolkit/main/.github/pplx-logo-light.png">
-          <img alt="Perplexity AI" width="500" src="https://raw.githubusercontent.com/ramonclaudio/perplexity-ai-toolkit/main/.github/pplx-logo-light.png">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/perplexity-ai-toolkit/main/.github/assets/pplx-logo-dark.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/perplexity-ai-toolkit/main/.github/assets/pplx-logo-light.png">
+          <img alt="Perplexity AI" width="500" src="https://raw.githubusercontent.com/ramonclaudio/perplexity-ai-toolkit/main/.github/assets/pplx-logo-light.png">
         </picture>
     </a>
 </p>
