@@ -10,7 +10,7 @@ def main():
     ------------------------------------------------------------------
                           Perplexity AI Toolkit                                 
                    API Wrapper & Command-line Interface               
-                          [v1.2.2] by @rmncldyo                      
+                          [v1.2.2] by @ramonclaudio                      
     ------------------------------------------------------------------
 
     Perplexity AI toolit is an API wrapper and command-line interface for the suite of large-language models offered by Perplexity Labs.
@@ -33,7 +33,7 @@ def main():
     | -fp, --frequency_penalty | Penalize tokens based on their frequency | --frequency_penalty 0.5                                                       |
     """,
         formatter_class=CustomFormatter,
-        epilog="For detailed usage information, visit our ReadMe here: github.com/RMNCLDYO/perplexity-ai-toolkit"
+        epilog="For detailed usage information, visit our ReadMe here: github.com/ramonclaudio/perplexity-ai-toolkit"
     )
     parser.add_argument('-c', '--chat', action='store_true', help='Enable chat mode')
     parser.add_argument('-s', '--search', action='store_true', help='Enable search mode')
